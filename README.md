@@ -1,4 +1,4 @@
-# 🚗 AIoT Vehicle Gas Emission Detection System
+# 🚗 An AIoT Based Vehicle Gas Emission Detection And Reporting System
 
 A React-based website for monitoring and reporting vehicle gas emissions using AIoT technologies.
 
@@ -23,9 +23,6 @@ This project combines **IoT sensors**, **AI models**, and a web interface to det
 - `Tailwind CSS`
 - `Firebase` (optional backend)
 - `GitHub` for version control
-
-## 📸 Screenshot
-*Add a screenshot here if you have one*
 
 ## 🚀 Getting Started
 
